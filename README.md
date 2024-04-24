@@ -92,7 +92,7 @@ Para mais informações ou para entrar em contato com o mantenedor do projeto, v
 # Autor
 
 <div style="border-radius: 5%; overflow: hidden; width: 115px; height: 115px;">
-  <img loading="lazy" src="https://avatars.githubusercontent.com/u/143226127?v=4" width="250px">
+  <img loading="lazy" src="https://avatars.githubusercontent.com/u/143226127?v=4" width="115px">
 </div>
 <br>
 <a href="https://github.com/Yagowc1"><sub>Yago Cortez</sub></a>
