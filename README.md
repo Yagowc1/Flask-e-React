@@ -89,10 +89,10 @@ Para mais informações ou para entrar em contato com o mantenedor do projeto, v
 [![Yago Cortez](https://img.shields.io/badge/LinkedIn-Yago_Cortez-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yago-cortez-9211512a7/)
 [![Yagowc1](https://img.shields.io/badge/GitHub-Yagowc1-black?style=flat-square&logo=github)](https://github.com/Yagowc1)
 
-# Author
+# Autor
 
 <div style="border-radius: 5%; overflow: hidden; width: 115px; height: 115px;">
-  <img loading="lazy" src="https://avatars.githubusercontent.com/u/143226127?v=4" width="100%">
+  <img loading="lazy" src="https://avatars.githubusercontent.com/u/143226127?v=4" width="250px">
 </div>
 <br>
 <a href="https://github.com/Yagowc1"><sub>Yago Cortez</sub></a>
